@@ -15,7 +15,7 @@
 
 		$subtag = $xml->createElement("asignacion");
 
-		$aTag = $xml->createElement("metodo1",$_REQUEST['metodo1']);
+		$aTag = $xml->createElement("metodo16",$_REQUEST['metodo1']);
 		$bTag = $xml->createElement("metodo2",$_REQUEST['metodo2']);
 		$cTag = $xml->createElement("metodo3",$_REQUEST['metodo3']);
 		$dTag = $xml->createElement("asignacion1",$_REQUEST['asignacion1']);
